@@ -24,7 +24,7 @@
 
 ### 第一周
 #### 任务
-1. DAY1：继承 [接受挑战](https://github.com/murphywuwu/30-Days-JS/issues/1)
+1. DAY1：继承 [接受挑战](https://github.com/murphywuwu/30-Days-JS/issues/1) 
 2. DAY2：Object.create [接受挑战](https://github.com/murphywuwu/30-Days-JS/issues/2)
 2. DAY3：new [接受挑战](https://github.com/murphywuwu/30-Days-JS/issues/3)
 3. DAY4：instanceof [接受挑战](https://github.com/murphywuwu/30-Days-JS/issues/4)
@@ -72,3 +72,6 @@
 
 #### 自测面试题
 [待编写...]()
+
+
+## 👉 [参与指南](./Contribute.md)
