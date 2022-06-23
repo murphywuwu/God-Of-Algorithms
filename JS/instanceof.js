@@ -1,0 +1,3 @@
+function myInstanceOf(l, r) {
+  // 编写你的代码......
+}
