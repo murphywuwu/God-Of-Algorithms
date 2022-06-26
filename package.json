@@ -1,0 +1,27 @@
+{
+  "name": "30-days-js",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">🐱30天进阶JS</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murphywuwu/30-Days-JS.git"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "murphywuwu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murphywuwu/30-Days-JS/issues"
+  },
+  "homepage": "https://github.com/murphywuwu/30-Days-JS#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.18.2",
+    "jest": "^28.1.1"
+  }
+}
